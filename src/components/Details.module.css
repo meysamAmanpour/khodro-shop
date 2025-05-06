@@ -1,0 +1,37 @@
+.detailsContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.detailsContainer img {
+  width: 350px;
+  height: 350px;
+}
+.details {
+  font-family: "vaziri";
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: linear-gradient(rgb(243, 247, 174), rgb(98, 113, 4));
+
+  border-radius: 10px;
+}
+.images img {
+  box-shadow: 3px 5px 5px rgb(98, 113, 4);
+  border-radius: 10px;
+}
+
+.details strong {
+  font-family: "lalezar";
+  font-size: 20px;
+}
+.details p {
+  margin: 0px;
+}
+
+.backBtn {
+  color: white;
+  background-color: rgb(199, 19, 19);
+  margin-bottom: 5px;
+  margin-right: -350px;
+}

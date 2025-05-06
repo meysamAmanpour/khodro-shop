@@ -1,0 +1,10 @@
+.titleProduct {
+  color: black;
+  margin-right: 40%;
+  margin-top: 100px;
+  text-shadow: 3px 3px 3px gray;
+}
+.sidebar {
+  display: flex;
+  justify-content: space-between;
+}

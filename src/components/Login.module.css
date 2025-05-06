@@ -1,0 +1,40 @@
+.form {
+  width: 450px;
+  margin-right: 35%;
+  margin-top: 5%;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  /* justify-content: center; */
+  gap: 20px;
+  border: solid 4px #777;
+  border-radius: 20px;
+  background-color: lightslategray;
+  box-shadow: 5px 5px 5px 7px;
+}
+
+.title {
+  margin-right: 30%;
+}
+.input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form div input {
+  background-color: #ddd;
+  height: 30px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px 1px;
+  margin-right: 20px;
+}
+
+button {
+  background-color: green;
+}
+.divBtn {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}

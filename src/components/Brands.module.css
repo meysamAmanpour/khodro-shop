@@ -1,0 +1,8 @@
+.position {
+  width: 40%;
+}
+
+.brands {
+  display: flex;
+  flex-direction: column;
+}

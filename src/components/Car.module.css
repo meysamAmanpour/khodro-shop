@@ -1,0 +1,7 @@
+.position {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60%;
+  border-radius: 20px;
+}

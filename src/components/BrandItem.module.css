@@ -1,0 +1,30 @@
+.company {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-left: 10px;
+  /* margin-right: 10px; */
+  background-image: linear-gradient(rgb(78, 146, 255), rgb(2, 107, 84));
+  border-radius: 20px;
+  height: 100px;
+}
+.img {
+  width: 100px;
+  height: 100px;
+}
+p,
+img {
+  padding: 30px;
+}
+
+.company:hover {
+  background-image: linear-gradient(rgb(51, 69, 54), rgb(2, 107, 84));
+  color: white;
+}
+
+.company p {
+  font-family: "vaziri";
+  font-size: 22px;
+  font-weight: bold;
+}
