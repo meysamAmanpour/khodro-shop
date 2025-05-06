@@ -6,6 +6,6 @@
 
 فروش خودروهای ایرانی(سایپا، ایران خودرو، پارس خودرو)
 
-![irankhodro](./public/iran.jpg.jpg)
-![saipa](./public/saipa.jpg.jpg)
-![parslhodro](./public/pars.jpg.jpg)
+![irankhodro](./public/iran.jpg)
+![saipa](./public/saipa.jpg)
+![parslhodro](./public/pars.jpg)
